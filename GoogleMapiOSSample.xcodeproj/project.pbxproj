@@ -705,6 +705,7 @@
 				A8DCBA391E263D6600DCA159 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A8DCBA3A1E263D6600DCA159 /* Build configuration list for PBXNativeTarget "GoogleMapiOSSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -713,6 +714,7 @@
 				A8DCBA3C1E263D6600DCA159 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A8DCBA3D1E263D6600DCA159 /* Build configuration list for PBXNativeTarget "GoogleMapiOSSampleUITests" */ = {
 			isa = XCConfigurationList;
@@ -721,6 +723,7 @@
 				A8DCBA3F1E263D6600DCA159 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
